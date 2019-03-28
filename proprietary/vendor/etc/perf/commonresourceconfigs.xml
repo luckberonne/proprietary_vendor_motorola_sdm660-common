@@ -204,6 +204,7 @@ need to be added just before the end of it's major group. -->
         <Minor OpcodeValue="0xE" Node="/sys/class/devfreq/soc:qcom,cpu4-llcc-ddr-lat/mem_latency/ratio_ceil" />
         <Minor OpcodeValue="0xF" Node="/sys/class/devfreq/soc:qcom,cpu0-llcc-ddr-lat/mem_latency/stall_floor" />
         <Minor OpcodeValue="0x10" Node="/sys/class/devfreq/soc:qcom,cpu4-llcc-ddr-lat/mem_latency/stall_floor" />
+
     <!-- memlat major end -->
 
     </PerfResources>
